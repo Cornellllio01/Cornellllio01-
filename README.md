@@ -1,5 +1,4 @@
-# Cornellllio01-
-Dev independente | Python · React Native · IA
+
 ## Cornelio | Dev Independente 🇧🇷
 
 Stack: Python · React Native · Flask · JavaScript · n8n · Groq · Claude AI
